@@ -1,5 +1,3 @@
-[![Masterpoint Logo](https://i.imgur.com/RDLnuQO.png)](https://masterpoint.io)
-
 # terraform-aws-storage-file-gateway
 
 [![Release](https://img.shields.io/github/release/masterpointio/terraform-aws-storage-file-gateway.svg)](https://github.com/masterpointio/terraform-aws-storage-file-gateway/releases/latest)
