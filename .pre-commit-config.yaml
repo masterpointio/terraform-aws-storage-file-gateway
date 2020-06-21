@@ -7,5 +7,4 @@ repos:
     hooks:
       - id: terraform_fmt
       - id: terraform_validate
-      - id: terraform_docs_replace
-        args: ["--with-aggregate-type-defaults", "--sort-inputs-by-required"]
+      - id: terraform_docs
